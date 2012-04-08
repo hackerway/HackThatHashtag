@@ -1,0 +1,8 @@
+HackThathHashtag 0.1: a Twitter Hashtag hacker, based on a @PTKDev idea.
+This script simply tweet a thing, infinitely.
+Use with caution, can make your Twitter account hot (and banned).
+Works with Python 2.x ONLY!
+Dependencies: tweepy <https://github.com/tweepy/tweepy>
+Contact me: gianguidorama (at) gmail (dot) com
+
+USAGE: python hth.py 'yourtweet'
