@@ -6,8 +6,8 @@ import tweepy
 import random
 
 ###### DO NOT TOUCH THESE STRINGS OR THE SCRIPT WON'T WORK ANYMORE ######
-CONKEY = 'WO4ilelM90RqufeBSaDpA'
-CONSECRET = 'L1kAIlMAMpCrW6uxFIq4cCkaBl5zo8wkv7glPc28A8'
+CONKEY = 'LOL'
+CONSECRET = 'NOPE'
 
 count = 0
 arg = sys.argv[1]
